@@ -18,8 +18,9 @@ Welcome to the ToDo List project! This web application allows users to manage th
 
 # Todo List Screenshot
 
-![Screenshot (22)](https://github.com/raviranjan0/To-doList/assets/100368738/f85ffe49-f0c0-4fa2-bd00-ef2150d9fdc1)
-![Screenshot (23)](https://github.com/raviranjan0/To-doList/assets/100368738/8aead749-08c1-40be-b4ae-2f3e14508130)
+![Screenshot (22)](https://github.com/raviranjan0/ToDo-List/assets/100368738/fc4de217-efde-4d78-a0ff-6d2333ca1ad5)
+
+![Screenshot (23)](https://github.com/raviranjan0/ToDo-List/assets/100368738/2b03f3e1-85c6-4b03-9e20-a2989839a977)
 
 ## Installation
 
