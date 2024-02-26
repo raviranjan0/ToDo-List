@@ -41,4 +41,4 @@ Welcome to the ToDo List project! This web application allows users to manage th
 - CSS
 - JavaScript
 
-  ## Thank You
+
