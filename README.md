@@ -35,7 +35,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 - Edit a task: Click on the task text and modify as needed.
 - Delete a task: Click the trash icon next to the task.
 
-## Technologies Used
+## Technologies Used :
 
 - HTML
 - CSS
