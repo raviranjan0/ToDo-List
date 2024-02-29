@@ -28,7 +28,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 2. Navigate to the project directory: `cd todo-list`
 3. Open `ToDo.html` in your preferred web browser.
 
-## Usage
+## Usage :
 
 - Add a new task: Enter task details and click the "Add" button.
 - Mark a task as completed: Check the checkbox next to the task.
