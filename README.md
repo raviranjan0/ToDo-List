@@ -16,7 +16,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 - Delete tasks
 - Clean and responsive user interface
 
-## ToDo List Screenshot
+## ToDo List Screenshot :
 
 ![Screenshot (22)](https://github.com/raviranjan0/ToDo-List/assets/100368738/fc4de217-efde-4d78-a0ff-6d2333ca1ad5)
 
