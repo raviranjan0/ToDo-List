@@ -22,7 +22,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 
 ![Screenshot (23)](https://github.com/raviranjan0/ToDo-List/assets/100368738/2b03f3e1-85c6-4b03-9e20-a2989839a977)
 
-## Installation
+## Installation :
 
 1. Clone the repository: `git clone https://github.com/raviranjan0/todo-list.git`
 2. Navigate to the project directory: `cd todo-list`
