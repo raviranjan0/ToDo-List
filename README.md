@@ -25,7 +25,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 ## Installation :
 
 1. Clone the repository : `git clone https://github.com/raviranjan0/todo-list.git`
-2. Navigate to the project directory: `cd todo-list`
+2. Navigate to the project directory : `cd todo-list`
 3. Open `ToDo.html` in your preferred web browser.
 
 ## Usage :
