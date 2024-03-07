@@ -32,7 +32,7 @@ Welcome to the ToDo List project! This web application allows users to manage th
 
 - Add a new task: Enter task details and click the "Add" button.
 - Mark a task as completed : Check the checkbox next to the task.
-- Edit a task: Click on the task text and modify as needed.
+- Edit a task : Click on the task text and modify as needed.
 - Delete a task: Click the trash icon next to the task.
 
 ## Technologies Used :
