@@ -1,6 +1,6 @@
 
 # 🚀 Welcome to the ToDo List Project !
-A simple ToDo List application to help you stay organized and productive.  ....
+A simple ToDo List application to help you stay organized and productive.  ...
 
 
 ## Introduction :
